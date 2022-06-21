@@ -5,7 +5,9 @@ Projeto criado durante o curso Qa.Coders, nas aulas de automação de teste com 
 # Pré-requisitos
 * [Ruby] - (https://rubyinstaller.org/downloads/) instalar versão recomendada coom => da sessão <b>WITH DEVKIT<b>
 
-* Baixar dependências do Ruby -----
+* Baixar dependências do Ruby
+
+
 
 
 
