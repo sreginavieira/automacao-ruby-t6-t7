@@ -4,6 +4,7 @@ require 'selenium-webdriver'
 require 'site_prism'
 require 'pry'
 
+
 Capybara.configre do |config|
     config.default.driver = :selenium_chrome
     config.app_host = "http://www.google.com.br"
